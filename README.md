@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![BoomAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomam)](https://github.com/boomam/github-readme-stats)
+
+
 <!--
 **boomam/boomam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
