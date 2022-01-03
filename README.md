@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![BoomAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomam)](https://github.com/boomam/github-readme-stats)
+[![BoomAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomam&count_private=true&show_icons=true&theme=dark)](https://github.com/boomam/github-readme-stats)
 
 
 <!--
