@@ -12,7 +12,9 @@ Logos & Badges
 &nbsp;  
 Stats  
 [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-
+&nbsp;  
+Other  
+[https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog?ref=dailydev](https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog?ref=dailydev)
 **boomam/boomam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
